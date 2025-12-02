@@ -8,7 +8,7 @@ El análisis se organiza en tres principales:
 ⿡ Perfil y Demografía – ubicación, edad, género, nivel educativo y seniority.
 
 ⿢ Análisis Salarial – distribución de salarios y comparaciones según modalidad, seniority, género y formación.
-ss
+
 ⿣ Condiciones de Trabajo – tipo de contrato, modalidad laboral, dedicación y tamaño de la empresa.
 
 
